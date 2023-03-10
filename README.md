@@ -1,12 +1,14 @@
-Tech Enthusiast, Android Developer, Graphic Designer, and Video Editor.
+Tech Enthusiast, Fullstack Web Developer, Android Developer.
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rsdiz&repo=rsdiz&countColorcountColor)
 
 # Muhammad Rosyid Izzulkhaq
 
-Hi, I'm Muhammad Rosyid Izzulkhaq 👨 Current university student enrolled in Informatics Engineering at University of Technology Yogyakarta and freelance at Home. I live in Central Java, Indonesia and I am a native Javanese. 🙌 I'm an Android Developer with Java and Kotlin, also able to develop a web, 🖼 design graphics with photoshop and CorelDraw, create ui/ux design in Adobe XD and Figma, 🎬 edit videos using Adobe After Effect and Adobe Premiere Pro, Manage projects with git, and understanding to deploy and publish projects on cpanel.
+Assalamu'alaikum, Rosyid here! 👋
 
-<h3 align="center">🤝🏻 Connect with Me</h3>
+Currently, work as full-stack web developer at Patfo. I completed my studies at the University of Technology Yogyakarta and obtained a bachelor's degree.
+
+<h3 align="center">🤝🏻 Get in touch!</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rsdiz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
